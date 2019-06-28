@@ -1,0 +1,112 @@
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe.config
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.pdb
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBE.dll
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBL.dll
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBE.pdb
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBL.pdb
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csprojResolveAssemblyReference.cache
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Properties.Resources.resources
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csproj.GenerateResource.Cache
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.exe
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.pdb
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libros01.resources
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaADO.dll
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaADO.pdb
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libro02.resources
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libro03.resources
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe.config
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.exe
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.pdb
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.pdb
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBE.dll
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBL.dll
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaADO.dll
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBE.pdb
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBL.pdb
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaADO.pdb
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csprojResolveAssemblyReference.cache
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libro02.resources
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libro03.resources
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libros01.resources
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Properties.Resources.resources
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csproj.GenerateResource.Cache
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe.config
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.exe
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.pdb
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.pdb
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBE.dll
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBL.dll
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaADO.dll
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBE.pdb
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBL.pdb
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaADO.pdb
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csprojResolveAssemblyReference.cache
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libro02.resources
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libro03.resources
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libros01.resources
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Properties.Resources.resources
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csproj.GenerateResource.Cache
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libro04.resources
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe.config
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.pdb
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBE.dll
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBL.dll
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaADO.dll
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBE.pdb
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBL.pdb
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaADO.pdb
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csprojResolveAssemblyReference.cache
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libro02.resources
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libro03.resources
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libro04.resources
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libros01.resources
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Properties.Resources.resources
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csproj.GenerateResource.cache
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csproj.CopyComplete
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.exe
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.pdb
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Lector01.resources
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Lector02.resources
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Lector03.resources
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.MDIPrincipal.resources
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Ejemplar01.resources
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Ejemplar03.resources
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Ejemplar02.resources
+C:\Users\Redes\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe.config
+C:\Users\Redes\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.exe
+C:\Users\Redes\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.pdb
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe.config
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.pdb
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBE.dll
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBL.dll
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaADO.dll
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBE.pdb
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaBL.pdb
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaADO.pdb
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csprojResolveAssemblyReference.cache
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Ejemplar01.resources
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Ejemplar02.resources
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Ejemplar03.resources
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Lector01.resources
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Lector02.resources
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Lector03.resources
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libro02.resources
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libro03.resources
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libro04.resources
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Libros01.resources
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.MDIPrincipal.resources
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.Properties.Resources.resources
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csproj.GenerateResource.cache
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.csproj.CopyComplete
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.exe
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.pdb
+G:\ProyectoAPP1\ProyUltimo\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\bin\Debug\BibliotecaGUI.exe.config
+G:\ProyectoAPP1\ProyUltimo\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.exe
+G:\ProyectoAPP1\ProyUltimo\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaGUI\obj\Debug\BibliotecaGUI.pdb

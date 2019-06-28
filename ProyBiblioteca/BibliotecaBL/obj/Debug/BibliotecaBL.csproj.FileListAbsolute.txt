@@ -1,0 +1,49 @@
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBL.dll
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBL.pdb
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaADO.dll
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBE.dll
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaADO.pdb
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBE.pdb
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.csprojResolveAssemblyReference.cache
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.dll
+D:\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.pdb
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBL.dll
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBL.pdb
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaADO.dll
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBE.dll
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaADO.pdb
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBE.pdb
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.csprojResolveAssemblyReference.cache
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.dll
+D:\SesionesAPP1\PROYECTOAPP1_BD\nueva bd 2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.pdb
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBL.dll
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBL.pdb
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaADO.dll
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBE.dll
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaADO.pdb
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBE.pdb
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.csprojResolveAssemblyReference.cache
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.dll
+D:\ProyectoAplicaciones1V2\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.pdb
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBL.dll
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBL.pdb
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaADO.dll
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBE.dll
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaADO.pdb
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBE.pdb
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.csprojResolveAssemblyReference.cache
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.csproj.CopyComplete
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.dll
+C:\Users\Pedro Moncada\Documents\ISIL\Ciclo3\Desarrollo de aplicaciones\proyec\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.pdb
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBL.dll
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBL.pdb
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaADO.dll
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBE.dll
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaADO.pdb
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\bin\Debug\BibliotecaBE.pdb
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.csprojResolveAssemblyReference.cache
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.csproj.CopyComplete
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.dll
+C:\Users\Pedro Moncada\Desktop\Proy Actualizado\ProyectoBiblioteca\ProyBiblioteca\BibliotecaBL\obj\Debug\BibliotecaBL.pdb

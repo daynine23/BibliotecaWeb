@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="DemoMaster.master.cs" Inherits="DemoMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="Css/QuantaCSS.css" rel="stylesheet" />
+     <%--AGREGAR ESTA REFERENCIA A CSS PARA EL CORRECTO USO DE LA CLASE MESSAGEBOX--%>
+  <%--  <link href="Content/MessageBox.css" rel="stylesheet" type="text/css" />
+    <link href="Content/Progress.css" rel="stylesheet" type="text/css" />--%>
+     <link href="CSS/QuantaCSS.css" rel="stylesheet" type="text/css" />
+    <link href="CSS/Progress.css" rel="stylesheet" type="text/css" />
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>    
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-image: url(../Images/fondo.jpg)">
+    <form id="form1" runat="server">
+
+       
+        <asp:ScriptManager ID="ScriptManager1" runat="server" EnableScriptGlobalization="True">
+
+                </asp:ScriptManager>
+    <div>
+        <asp:ContentPlaceHolder id="MainContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+            <script>
+        function Yes() {
+            document.getElementById("wholePage").style.display = "none";
+            document.getElementById("messageBox").style.display = "none";
+            //javascript: location.reload();
+        };
+
+        $("ul li").click(function () {
+            $(this).css("color", "blue");
+        });
+    </script>  
+
+    </form>
+</body>
+</html>

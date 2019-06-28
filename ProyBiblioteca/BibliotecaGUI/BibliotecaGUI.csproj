@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{233F91D2-6E46-4AD1-B854-A68851ED1814}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BibliotecaGUI</RootNamespace>
+    <AssemblyName>BibliotecaGUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ejemplar01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejemplar01.Designer.cs">
+      <DependentUpon>Ejemplar01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejemplar02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejemplar02.Designer.cs">
+      <DependentUpon>Ejemplar02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ejemplar03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejemplar03.Designer.cs">
+      <DependentUpon>Ejemplar03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lector01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lector01.Designer.cs">
+      <DependentUpon>Lector01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lector02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lector02.Designer.cs">
+      <DependentUpon>Lector02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lector03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lector03.Designer.cs">
+      <DependentUpon>Lector03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Libro02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Libro02.Designer.cs">
+      <DependentUpon>Libro02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Libro03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Libro03.Designer.cs">
+      <DependentUpon>Libro03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Libro04.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Libro04.Designer.cs">
+      <DependentUpon>Libro04.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Libros01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Libros01.Designer.cs">
+      <DependentUpon>Libros01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIPrincipal.Designer.cs">
+      <DependentUpon>MDIPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Ejemplar01.resx">
+      <DependentUpon>Ejemplar01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejemplar02.resx">
+      <DependentUpon>Ejemplar02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejemplar03.resx">
+      <DependentUpon>Ejemplar03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lector01.resx">
+      <DependentUpon>Lector01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lector02.resx">
+      <DependentUpon>Lector02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lector03.resx">
+      <DependentUpon>Lector03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Libro02.resx">
+      <DependentUpon>Libro02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Libro03.resx">
+      <DependentUpon>Libro03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Libro04.resx">
+      <DependentUpon>Libro04.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Libros01.resx">
+      <DependentUpon>Libros01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIPrincipal.resx">
+      <DependentUpon>MDIPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BibliotecaBE\BibliotecaBE.csproj">
+      <Project>{90d7fbf5-e031-4e85-ad83-b9939551132c}</Project>
+      <Name>BibliotecaBE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BibliotecaBL\BibliotecaBL.csproj">
+      <Project>{72e59da7-5968-4669-9046-8fd6e7cec598}</Project>
+      <Name>BibliotecaBL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaADO", "BibliotecaADO\BibliotecaADO.csproj", "{4673BC82-4F16-4A4A-99AF-4DB5753C9CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaBE", "BibliotecaBE\BibliotecaBE.csproj", "{90D7FBF5-E031-4E85-AD83-B9939551132C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaBL", "BibliotecaBL\BibliotecaBL.csproj", "{72E59DA7-5968-4669-9046-8FD6E7CEC598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaGUI", "BibliotecaGUI\BibliotecaGUI.csproj", "{233F91D2-6E46-4AD1-B854-A68851ED1814}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SitioBiblioteca_WEB", "SitioBiblioteca_WEB\", "{884491CF-9153-4E3D-ADDF-90E461317317}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{72e59da7-5968-4669-9046-8fd6e7cec598}|BibliotecaBL.dll;{4673BC82-4F16-4A4A-99AF-4DB5753C9CA8}|BibliotecaADO.dll;{90D7FBF5-E031-4E85-AD83-B9939551132C}|BibliotecaBE.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49688"
+		Debug.AspNetCompiler.PhysicalPath = "SitioBiblioteca_WEB\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49688\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49688"
+		Release.AspNetCompiler.PhysicalPath = "SitioBiblioteca_WEB\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49688\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49688"
+		SlnRelativePath = "SitioBiblioteca_WEB\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4673BC82-4F16-4A4A-99AF-4DB5753C9CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4673BC82-4F16-4A4A-99AF-4DB5753C9CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4673BC82-4F16-4A4A-99AF-4DB5753C9CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4673BC82-4F16-4A4A-99AF-4DB5753C9CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D7FBF5-E031-4E85-AD83-B9939551132C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D7FBF5-E031-4E85-AD83-B9939551132C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D7FBF5-E031-4E85-AD83-B9939551132C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D7FBF5-E031-4E85-AD83-B9939551132C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E59DA7-5968-4669-9046-8FD6E7CEC598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E59DA7-5968-4669-9046-8FD6E7CEC598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E59DA7-5968-4669-9046-8FD6E7CEC598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E59DA7-5968-4669-9046-8FD6E7CEC598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233F91D2-6E46-4AD1-B854-A68851ED1814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233F91D2-6E46-4AD1-B854-A68851ED1814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233F91D2-6E46-4AD1-B854-A68851ED1814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233F91D2-6E46-4AD1-B854-A68851ED1814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{884491CF-9153-4E3D-ADDF-90E461317317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{884491CF-9153-4E3D-ADDF-90E461317317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{884491CF-9153-4E3D-ADDF-90E461317317}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{884491CF-9153-4E3D-ADDF-90E461317317}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
